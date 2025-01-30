@@ -1,8 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+## My name is Ryan Sorocina
 
-My name is Ryan Sorocina
-
-Here is some stuff about me..
+**Here is some stuff about me..**
 
 - I’m currently working on my associate's degree at Raritan Valley Community College
 - I'm majoring in Information Systems and Technology
